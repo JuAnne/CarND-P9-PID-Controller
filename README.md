@@ -26,7 +26,7 @@ These are the suggested steps:
 - Create the build directory: `mkdir build`
 - `cd build`
 - `cmake ..`
-- `make`: This will create an executable `particle_filter`
+- `make`: This will create an executable `pid`
 
 
 ## Effect of P, I and D parameters
@@ -71,7 +71,8 @@ Here are my sample plots of cte-steer and P-PD-PID controller
 ![](https://github.com/JuAnne/CarND-P9-PID-Controller/blob/master/plot/cte_steer.png)
 ![](https://github.com/JuAnne/CarND-P9-PID-Controller/blob/master/plot/p_pd_pid_2.png)
 
-My output video can be downloaded ([here](https://github.com/JuAnne/CarND-P9-PID-Controller/blob/master/pid.mp4))
+## Output Video
+My output video can be downloaded [here](https://github.com/JuAnne/CarND-P9-PID-Controller/blob/master/pid.mp4)
 
 
 
